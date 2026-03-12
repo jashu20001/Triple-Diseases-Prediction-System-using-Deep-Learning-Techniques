@@ -1,6 +1,6 @@
  Triple Diseases Prediction System using Deep Learning Techniques
 
-Published in IEEE | 📄 View on IEEE Xplore
+Published in IEEE | View on IEEE Xplore: https://ieeexplore.ieee.org/document/10493563
 
 
  Authors
